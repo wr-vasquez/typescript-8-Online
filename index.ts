@@ -4,7 +4,7 @@
 // const nombre: string = 'Wilson';
 // console.log(nombre);
 
-let habilidades: string[] = ['Bash', 'Counter', 'Healing'];
+const habilidades: string[] = ['Bash', 'Counter', 'Healing'];
 
 //CREACTION OF INTERFACE
 interface Personaje {
