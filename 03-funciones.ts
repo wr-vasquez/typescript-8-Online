@@ -1,5 +1,5 @@
 // funciones
-
+// Primero van los datos que son obligatorios en una funcion y despues los no obligatorios de lo contrario se le debe agregar su valor inicial 
 function multiplicar(
   numero: number,
   otroNumero?: number,
